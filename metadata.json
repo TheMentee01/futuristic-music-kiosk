@@ -1,0 +1,7 @@
+{
+  "name": "FUTURISTIC MUSIC KIOSK",
+  "description": "An interactive music creation kiosk where users can record their voice, describe their desired song, and receive AI-generated tracks based on their input and selected music tier.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
